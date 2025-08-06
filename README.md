@@ -1,16 +1,14 @@
 ## Hi there 👋
-# Hi there, I'm Yasan! 👋
-
-🎓 I'm a 21-year-old Computer Engineering student at Politecnico di Torino  
-💻 I’m passionate about **cryptography**, **web applications**, and **programming**  
-🎨 I have **4 years of experience in 3D designing and modeling**, with some experience in **3D animation**  
+I'm Yasan
+I’m passionate about **cryptography**, **web applications**, and **programming**  
+I have **4 years of experience in 3D designing and modeling**, with some experience in **3D animation** and **advertising**
 
 ---
 
 ## 🔹 About Me
-- 🌱 Currently learning and expanding my skills in **web development** and **cryptography**  
-- 🛠 Experienced in **3D design**, **modeling**, and beginner in **animation**  
-- 💡 Always curious about **system security**, **programming languages**, and **real-world applications of cryptography**
+-  Currently learning and expanding my skills in **web development** and **cryptography**  
+-  Experienced in **3D design**, **modeling**, and beginner in **animation**  
+- Always curious about **system security**, **programming languages**, and **real-world applications of cryptography**
 
 ---
 
