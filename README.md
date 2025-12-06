@@ -13,10 +13,9 @@ I have **4 years of experience in 3D designing and modeling**, with some experie
 ---
 
 ## 🔹 Technologies & Tools
-- **Programming:** Python, C  
+- **Programming:** Python, C , C#
 - **3D Tools:** Blender   
 - **Other Interests:** Blockchain, and AI
-- 
 ---
 
 ## 📫 Connect with Me
