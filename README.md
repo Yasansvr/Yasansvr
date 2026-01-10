@@ -1,21 +1,21 @@
 ## Hi there 👋
 I'm Yasan
-I’m passionate about **cryptography**, **web applications**, and **programming**  
+I’m passionate about **Game Developing**, **web applications**, and **programming**  
 I have **4 years of experience in 3D designing and modeling**, with some experience in **3D animation** and **advertising**
 
 ---
 
 ## 🔹 About Me
--  Currently learning and expanding my skills in **web development** and **cryptography**  
+-  Currently learning and expanding my skills in **Game development** and **Game engines**  
 -  Experienced in **3D design**, **modeling**, and beginner in **animation**  
-- Always curious about **system security**, **programming languages**, and **real-world applications of cryptography**
+- Always curious about **system security**, **programming languages**,**AI** and **real-world applications**
 
 ---
 
 ## 🔹 Technologies & Tools
 - **Programming:** Python, C , C#
 - **3D Tools:** Blender   
-- **Other Interests:** Blockchain, and AI
+- **Other Interests:** Game engines(Unity), and AI
 ---
 
 ## 📫 Connect with Me
